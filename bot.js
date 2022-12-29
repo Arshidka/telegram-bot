@@ -25,7 +25,7 @@ const bot = new Telegraf('1675749539:AAH46KNMRschhJDMuI5dclpp9FnB0znEaK4')
 const axios = require('axios')
 
 /*********[ Apikey ]*********/
-let lolhuman = '99ecdb09b1053d90fbc15d56'
+let lolhuman = '8b00e222a829a4c1043e904ae5b6ad35'
 let iteach = 'Ganti pakai apikey kalian' //silahkan login/register di https://api.i-tech.id untuk mendapatkan apikey
 /***************************/
 
